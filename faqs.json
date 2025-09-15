@@ -1,0 +1,9 @@
+[
+  {"q": "hi", "a": "Hello! How can I help you?"},
+  {"q": "who are you", "a": "I am your college FAQ assistant."},
+  {"q": "my name is mohanraj", "a": "Nice to meet you Mohanraj!"},
+  {"q": "What are the college timings?", "a": "Classes run from 9:00 AM to 4:30 PM, Monday–Friday."},
+  {"q": "How do I apply for scholarship?", "a": "Visit the student services office or apply online at /scholarships."},
+  {"q": "Where is the library located?", "a": "The main library is in building B, ground floor."}
+]
+
